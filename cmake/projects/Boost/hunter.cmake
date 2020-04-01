@@ -110,9 +110,9 @@ hunter_add_version(
     VERSION
     "1.68.0-p1"
     URL
-    "https://github.com/hunter-packages/boost/archive/v1.68.0-p1.tar.gz"
+    "https://github.com/YuryAlkevich/boost/archive/v1.68.0-p1-fixed.tar.gz"
     SHA1
-    0bb10b0a0fdc196646c87e0143c0290baa32357d 
+    e06cfb1fa0ad9eeaba6e03465b1df3ff08a351d1 
 )
 
 # up until 1.63 sourcefourge was used
