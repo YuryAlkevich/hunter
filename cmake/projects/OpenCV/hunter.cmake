@@ -490,7 +490,7 @@ hunter_cmake_args(
         WITH_CUDA=OFF
         WITH_CUFFT=OFF
         # Fix for https://travis-ci.org/xsacha/hunter/jobs/347083573
-        BUILD_opencv_dnn=OFF
+        #BUILD_opencv_dnn=OFF
         # Fix for https://travis-ci.org/ingenue/hunter/builds/452039597
         WITH_OPENEXR=OFF
         WITH_FFMPEG=OFF
